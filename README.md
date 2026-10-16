@@ -17,7 +17,7 @@ https://github.com/AhmedHafez2000/Arduino-Nano-Clone-LGT8F328P
 
 
 #### Key Features:
-- **Constant Discharge **: Can select the discharge rate using multiturn potentiometer and it is viewed on TFT display.
+- **Constant Discharge**: Can select the discharge rate using multiturn potentiometer and it is viewed on TFT display.
 - **Reverse Polarity Protection**: The device has a reverse polarity protection circuit that isolate the battery and protect it from damage, if the battery is reversed it show on the display.
 - **Power Supply**: Can be powered using a Li-ion battery (support only discharge mode only). The battery will be charged when the device is powered using USB, the battery will protect the readings from getting lost.
 - **Active Cooling**: Power MOSFET's heatsink is cooled by 12V fan which is connected to its connector on the PCB.
